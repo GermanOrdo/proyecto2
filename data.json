@@ -1,0 +1,7 @@
+[
+    {"nombre": "malasia", "precio": 1000, "id": 1},
+    {"nombre": "everest", "precio": 2000, "id": 2},
+    {"nombre": "egipto", "precio": 3000, "id": 3},
+    {"nombre": "niza", "precio": 4000, "id": 4},
+    {"nombre": "madrid", "precio": 5000, "id": 5}
+]
