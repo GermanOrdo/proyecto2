@@ -30,14 +30,16 @@ body {
     align-items: center;
 
 }
-
-.consulta {
-    position: relative;
-    display: flex;
-    justify-content: center;
-    font-weight: bolder;
-    font-size: larger 1rem;
-    color: rgb(255, 255, 255);
-    padding: 0.5rem;
-    margin: 2rem;
+.consulta-titulo{
+    font-size: 3rem;
+}
+.consulta-cuerpo{
+    font-size: 1.5rem;
+}
+.consulta-btn{
+    border-radius: 0.5rem solid black;
+    box-shadow: 5px 10px;
+}
+.img-nos:hover{
+    opacity: 50%;
 }
